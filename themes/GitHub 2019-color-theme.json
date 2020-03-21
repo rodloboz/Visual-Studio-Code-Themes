@@ -1,7 +1,7 @@
 {
 	"tokenColors": "./GitHub2019.tmTheme",
 	"colors": {
-		"editor.background": "#F8F8FF",
+		"editor.background": "#F7F7F7",
 		"editorCursor.foreground": "#000000",
 		"editor.foreground": "#000000",
 		"editorWhitespace.foreground": "#BFBFBF",
