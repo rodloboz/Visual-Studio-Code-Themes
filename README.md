@@ -1,22 +1,6 @@
-# Visual Studio Code Themes
-A collection of Visual Studio Code Themes created by me
+# README
 
-## Retro Wave Junkie
-
-![](https://github.com/kasuken/Visual-Studio-Code-Themes/raw/master/retro-wave-junkie/RetroWaveJunkieMainScreen.jpg)
-
-Link: https://marketplace.visualstudio.com/items?itemName=emanuelebartolesi.retro-wave-junkie
-
----
-
-## GitHub 2019
+A light theme for Visual Studio Code inspired by GitHub colors.
+Who loves GitHub, loves these colors palette.
 
 ![](https://github.com/kasuken/Visual-Studio-Code-Themes/raw/master/github-2019/GitHub2019MainScreen.PNG)
-
-Link: https://marketplace.visualstudio.com/items?itemName=emanuelebartolesi.github-2019
-
-## Bandersnatch
-
-![](https://github.com/kasuken/Visual-Studio-Code-Themes/raw/master/bandersnatch/BandersnatchMainScreen.PNG)
-
-Link: https://marketplace.visualstudio.com/items?itemName=emanuelebartolesi.bandersnatch
